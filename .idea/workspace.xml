@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date,">
+      <change beforePath="$PROJECT_DIR$/images" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2473">
+              <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+              <folding>
+                <element signature="e#835#958#2" expanded="true" />
+                <element signature="e#1358#6649#2" expanded="true" />
+                <element signature="e#6986#8049#2" expanded="true" />
+                <element signature="e#9705#10396#2" expanded="true" />
+                <element signature="e#10435#11286#2" expanded="true" />
+                <element signature="e#11703#22458#2" expanded="true" />
+                <element signature="e#22508#32435#2" expanded="true" />
+                <element signature="e#32482#42521#2" expanded="true" />
+                <element signature="e#42571#51790#2" expanded="true" />
+                <element signature="e#51843#62206#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitigore" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/johnwilliamdunn.github.io.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+        <option value="$PROJECT_DIR$/.idea/vagrant.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="783" />
+    <option name="y" value="55" />
+    <option name="width" value="960" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="johnwilliamdunn.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnwilliamdunn.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sim\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="" />
+      <created>1562882452157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562882452157</updated>
+      <workItem from="1562882453275" duration="1442000" />
+      <workItem from="1562894313905" duration="236000" />
+      <workItem from="1562898067728" duration="127000" />
+      <workItem from="1562940169619" duration="221000" />
+      <workItem from="1563289737179" duration="191000" />
+      <workItem from="1563745795203" duration="3100000" />
+      <workItem from="1563803031088" duration="540000" />
+      <workItem from="1563814954851" duration="627000" />
+      <workItem from="1563845579989" duration="95000" />
+    </task>
+    <task id="LOCAL-00001" summary="added html file">
+      <created>1562882692997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562882692997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added html file">
+      <created>1562882774174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562882774174</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added html file, added picture">
+      <created>1562882931808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562882931808</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added html file, added picture, added resume">
+      <created>1562885374939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562885374939</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added html file, added picture, added resume, changed wording for resume">
+      <created>1562894410176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562894410177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording">
+      <created>1562898121469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562898121469</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts">
+      <created>1563746162583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563746162583</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link">
+      <created>1563746830780</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563746830780</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume">
+      <created>1563750390371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563750390371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume">
+      <created>1563750512116</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563750512116</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume">
+      <created>1563750585725</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563750585725</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording,">
+      <created>1563750749978</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563750749978</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date,">
+      <created>1563751558554</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563751558554</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="480" y="203" width="960" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34422657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added html file" />
+    <MESSAGE value="added html file, added picture" />
+    <MESSAGE value="added html file, added picture, added resume" />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume" />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording" />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts" />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link" />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume" />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording," />
+    <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date," />
+    <option name="LAST_COMMIT_MESSAGE" value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date," />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitigore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Identity-project.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2473">
+          <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+          <folding>
+            <element signature="e#835#958#2" expanded="true" />
+            <element signature="e#1358#6649#2" expanded="true" />
+            <element signature="e#6986#8049#2" expanded="true" />
+            <element signature="e#9705#10396#2" expanded="true" />
+            <element signature="e#10435#11286#2" expanded="true" />
+            <element signature="e#11703#22458#2" expanded="true" />
+            <element signature="e#22508#32435#2" expanded="true" />
+            <element signature="e#32482#42521#2" expanded="true" />
+            <element signature="e#42571#51790#2" expanded="true" />
+            <element signature="e#51843#62206#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
