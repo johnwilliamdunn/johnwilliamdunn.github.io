@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date,">
-      <change beforePath="$PROJECT_DIR$/images" beforeDir="false" />
+    <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
+            <state relative-caret-position="506">
+              <caret line="299" column="24" lean-forward="true" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
               <folding>
                 <element signature="e#835#958#2" expanded="true" />
                 <element signature="e#1358#6649#2" expanded="true" />
@@ -143,6 +142,7 @@
       <workItem from="1563814954851" duration="627000" />
       <workItem from="1563845579989" duration="95000" />
       <workItem from="1564344520950" duration="178000" />
+      <workItem from="1564420967201" duration="252000" />
     </task>
     <task id="LOCAL-00001" summary="added html file">
       <created>1562882692997</created>
@@ -235,16 +235,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563751558554</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added graph">
+      <created>1564421010940</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564421010940</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6757000" />
+    <option name="totallyTimeSpent" value="7009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="783" y="55" width="960" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35185185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35947713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +287,8 @@
     <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume" />
     <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording," />
     <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date," />
-    <option name="LAST_COMMIT_MESSAGE" value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date," />
+    <MESSAGE value="added graph" />
+    <option name="LAST_COMMIT_MESSAGE" value="added graph" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitigore">
@@ -297,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
+        <state relative-caret-position="506">
+          <caret line="299" column="24" lean-forward="true" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
           <folding>
             <element signature="e#835#958#2" expanded="true" />
             <element signature="e#1358#6649#2" expanded="true" />
