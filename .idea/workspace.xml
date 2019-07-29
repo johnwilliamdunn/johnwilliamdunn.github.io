@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date,">
       <change beforePath="$PROJECT_DIR$/images" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2473">
-              <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+            <state relative-caret-position="502">
+              <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
               <folding>
                 <element signature="e#835#958#2" expanded="true" />
                 <element signature="e#1358#6649#2" expanded="true" />
@@ -75,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,14 +84,19 @@
               <item name="johnwilliamdunn.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="johnwilliamdunn.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="johnwilliamdunn.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnwilliamdunn.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -135,6 +142,7 @@
       <workItem from="1563803031088" duration="540000" />
       <workItem from="1563814954851" duration="627000" />
       <workItem from="1563845579989" duration="95000" />
+      <workItem from="1564344520950" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="added html file">
       <created>1562882692997</created>
@@ -231,13 +239,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6579000" />
+    <option name="totallyTimeSpent" value="6757000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="203" width="960" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="783" y="55" width="960" height="797" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34422657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35185185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2473">
-          <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+        <state relative-caret-position="502">
+          <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
           <folding>
             <element signature="e#835#958#2" expanded="true" />
             <element signature="e#1358#6649#2" expanded="true" />
