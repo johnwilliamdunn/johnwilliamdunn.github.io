@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="299" column="24" lean-forward="true" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
+            <state relative-caret-position="524">
+              <caret line="303" column="408" selection-start-line="303" selection-start-column="408" selection-end-line="303" selection-end-column="408" />
               <folding>
                 <element signature="e#835#958#2" expanded="true" />
                 <element signature="e#1358#6649#2" expanded="true" />
@@ -65,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="783" />
-    <option name="y" value="55" />
+    <option name="x" value="947" />
+    <option name="y" value="84" />
     <option name="width" value="960" />
     <option name="height" value="797" />
   </component>
@@ -75,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +143,8 @@
       <workItem from="1563814954851" duration="627000" />
       <workItem from="1563845579989" duration="95000" />
       <workItem from="1564344520950" duration="178000" />
-      <workItem from="1564420967201" duration="252000" />
+      <workItem from="1564420967201" duration="459000" />
+      <workItem from="1564776963101" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="added html file">
       <created>1562882692997</created>
@@ -242,17 +244,38 @@
       <option name="project" value="LOCAL" />
       <updated>1564421010940</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding week 3 reflection">
+      <created>1564421235338</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1564421235338</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adding week 3 reflection">
+      <created>1564421268876</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1564421268876</updated>
+    </task>
+    <task id="LOCAL-00017" summary="changed Identity to a capital I">
+      <created>1564421311438</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564421311438</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7009000" />
+    <option name="totallyTimeSpent" value="7543000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="783" y="55" width="960" height="797" extended-state="0" />
+    <frame x="947" y="84" width="960" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35947713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18627451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -288,7 +311,9 @@
     <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording," />
     <MESSAGE value="added html file, added picture, added resume, changed wording for resume, changed resume wording, writing week two thoughts, added identity table, added github link, added new resume, changed wording, changed update date," />
     <MESSAGE value="added graph" />
-    <option name="LAST_COMMIT_MESSAGE" value="added graph" />
+    <MESSAGE value="adding week 3 reflection" />
+    <MESSAGE value="changed Identity to a capital I" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed Identity to a capital I" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitigore">
@@ -306,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="299" column="24" lean-forward="true" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
+        <state relative-caret-position="524">
+          <caret line="303" column="408" selection-start-line="303" selection-start-column="408" selection-end-line="303" selection-end-column="408" />
           <folding>
             <element signature="e#835#958#2" expanded="true" />
             <element signature="e#1358#6649#2" expanded="true" />
