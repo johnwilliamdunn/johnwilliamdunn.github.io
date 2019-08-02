@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/burners-to-do" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="303" column="408" selection-start-line="303" selection-start-column="408" selection-end-line="303" selection-end-column="408" />
+            <state relative-caret-position="317">
+              <caret line="278" column="36" lean-forward="true" selection-start-line="278" selection-start-column="36" selection-end-line="278" selection-end-column="36" />
               <folding>
                 <element signature="e#835#958#2" expanded="true" />
                 <element signature="e#1358#6649#2" expanded="true" />
@@ -49,19 +50,6 @@
       <list>
         <option value="$PROJECT_DIR$/.gitigore" />
         <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/johnwilliamdunn.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
-        <option value="$PROJECT_DIR$/.idea/vagrant.xml" />
       </list>
     </option>
   </component>
@@ -98,7 +86,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
@@ -108,6 +96,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -144,7 +133,7 @@
       <workItem from="1563845579989" duration="95000" />
       <workItem from="1564344520950" duration="178000" />
       <workItem from="1564420967201" duration="459000" />
-      <workItem from="1564776963101" duration="327000" />
+      <workItem from="1564776963101" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="added html file">
       <created>1562882692997</created>
@@ -269,11 +258,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7543000" />
+    <option name="totallyTimeSpent" value="8201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="947" y="84" width="960" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18627451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="303" column="408" selection-start-line="303" selection-start-column="408" selection-end-line="303" selection-end-column="408" />
+        <state relative-caret-position="317">
+          <caret line="278" column="36" lean-forward="true" selection-start-line="278" selection-start-column="36" selection-end-line="278" selection-end-column="36" />
           <folding>
             <element signature="e#835#958#2" expanded="true" />
             <element signature="e#1358#6649#2" expanded="true" />
