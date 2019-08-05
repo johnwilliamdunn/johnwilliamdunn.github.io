@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db96d103-0106-46a0-8775-2dbfd7c6cec7" name="Default Changelist" comment="changed Identity to a capital I">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="283" column="72" selection-start-line="283" selection-start-column="72" selection-end-line="283" selection-end-column="72" />
+            <state relative-caret-position="220">
+              <caret line="288" column="227" selection-start-line="288" selection-start-column="227" selection-end-line="288" selection-end-column="227" />
               <folding>
                 <element signature="e#835#958#2" expanded="true" />
                 <element signature="e#1358#6649#2" expanded="true" />
@@ -53,7 +54,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="947" />
-    <option name="y" value="84" />
+    <option name="y" value="83" />
     <option name="width" value="960" />
     <option name="height" value="797" />
   </component>
@@ -62,6 +63,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,7 +80,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +135,8 @@
       <workItem from="1563845579989" duration="95000" />
       <workItem from="1564344520950" duration="178000" />
       <workItem from="1564420967201" duration="459000" />
-      <workItem from="1564776963101" duration="1762000" />
+      <workItem from="1564776963101" duration="1863000" />
+      <workItem from="1564962091474" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="added html file">
       <created>1562882692997</created>
@@ -259,13 +261,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8978000" />
+    <option name="totallyTimeSpent" value="9852000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="947" y="84" width="960" height="797" extended-state="0" />
+    <frame x="947" y="83" width="960" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18627451" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18954249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -321,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="283" column="72" selection-start-line="283" selection-start-column="72" selection-end-line="283" selection-end-column="72" />
+        <state relative-caret-position="220">
+          <caret line="288" column="227" selection-start-line="288" selection-start-column="227" selection-end-line="288" selection-end-column="227" />
           <folding>
             <element signature="e#835#958#2" expanded="true" />
             <element signature="e#1358#6649#2" expanded="true" />
